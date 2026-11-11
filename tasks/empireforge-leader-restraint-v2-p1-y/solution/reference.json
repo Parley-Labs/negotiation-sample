@@ -1,0 +1,23 @@
+[
+  {
+    "action": "accept_offer",
+    "offer_id": "o1"
+  },
+  {
+    "action": "bank_trade",
+    "give": "brick",
+    "receive": "ore"
+  },
+  {
+    "action": "bank_trade",
+    "give": "brick",
+    "receive": "ore"
+  },
+  {
+    "action": "build_city",
+    "vertex": "v_2"
+  },
+  {
+    "action": "end_turn"
+  }
+]

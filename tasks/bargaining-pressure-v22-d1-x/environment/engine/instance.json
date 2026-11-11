@@ -1,0 +1,1 @@
+{"id": "bp22-d1-x", "rounds": 14, "walk_away": 40, "holding_cost": 2, "check_cost": 4, "buyer": {"open": 36, "rises": [12, 11, 10, 7, 7, 4, 2, 1, 0, 0, 0, 0, 0], "slack": 1, "type": "second_real", "claims": [3, 6], "record": {"pair": ["first_real", "second_real"], "entries": ["other", "contrary", "own", "own", "own"], "rounds": [3, 3, 5, 3, 3], "gaps": [3, 2, 3, 3, 4]}}}

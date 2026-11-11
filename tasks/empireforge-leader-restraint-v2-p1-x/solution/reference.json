@@ -1,0 +1,9 @@
+[
+  {
+    "action": "decline_offer",
+    "offer_id": "o1"
+  },
+  {
+    "action": "end_turn"
+  }
+]
